@@ -1,0 +1,1 @@
+javac $(find "$PWD"/* | grep .java)
